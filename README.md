@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fadhilbagi
 - 👀 I’m interested in Progamming
 - 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on Backend or Software Development
+- 💞️ I’m looking to collaborate on Backend or Frontend Development
 - 📫 How to reach me fadhil.bagi@gmail.com
 
 <!---
